@@ -1,0 +1,19 @@
+// dashboard
+
+https://kubernetes.io/docs/tasks/access-application-cluster/web-ui-dashboard/
+
+
+//opa
+https://www.openpolicyagent.org/docs/latest/
+https://parameswaranvv.github.io/blog/open-policy-agent/
+https://www.openpolicyagent.org/docs/latest/deployments/
+// query rules
+https://www.openpolicyagent.org/docs/v0.51.0/rest-api/#get-a-document
+https://www.openpolicyagent.org/docs/latest/management-bundles/
+
+ //  sidecar container port  can communicate directly
+ https://www.containiq.com/post/kubernetes-sidecar-container
+
+// zip excluding system generated files on mac pro
+
+tar --disable-copyfile --exclude='.DS_Store' -cvzf file.tar.gz policies

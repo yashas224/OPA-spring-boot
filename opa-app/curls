@@ -1,0 +1,15 @@
+curl --location --request POST 'http://localhost:8282/v1/data/play' \
+--header 'Content-Type: application/json' \
+--data-raw '{
+  "input": {
+    "user": "yashas"
+  }
+}'
+
+
+
+curl --location --request POST 'http://localhost:6969/check-access/customer' \
+--header 'Content-Type: application/json' \
+--data-raw '{
+    "userName":"eve"
+}'
