@@ -1,4 +1,5 @@
 // platform specific opa container
+https://code2care.org/docker/fix-docker-no-matching-manifest-for-linux-arm64-v8-in-manifest-list-entries-m1-m2-mac
 docker pull --platform linux/x86_64 openpolicyagent/opa:0.51.0
 
 
