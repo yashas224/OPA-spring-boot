@@ -17,7 +17,7 @@ https://www.openpolicyagent.org/docs/latest/management-bundles/
  https://www.containiq.com/post/kubernetes-sidecar-container
 
 // zip excluding system generated files on mac pro
-
+https://gist.github.com/lideo/82fb863749f4efe1deb9ca146b1093e8
 tar --disable-copyfile --exclude='.DS_Store' -cvzf file.tar.gz policies
 
 
