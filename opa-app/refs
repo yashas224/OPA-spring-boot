@@ -22,5 +22,9 @@ https://gist.github.com/lideo/82fb863749f4efe1deb9ca146b1093e8
 https://www.baeldung.com/linux/tar-exclude-files-directories
 tar --disable-copyfile --exclude='.DS_Store' -cvzf file.tar.gz policies
 
+// By using OPA build command
+https://www.openpolicyagent.org/docs/management-bundles
+opa build -b <path to policy folder>
+
 
 ./opa run -s file.tar.gz
