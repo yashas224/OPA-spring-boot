@@ -13,6 +13,9 @@ https://www.openpolicyagent.org/docs/latest/integration/
 // query rules
 https://www.openpolicyagent.org/docs/v0.51.0/rest-api/#get-a-document
 https://www.openpolicyagent.org/docs/rest-api
+Data API - evaluate rules and retrieve data.
+https://www.openpolicyagent.org/docs/rest-api#data-api
+
 https://www.openpolicyagent.org/docs/latest/management-bundles/
 
  //  sidecar container port  can communicate directly
