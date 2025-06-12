@@ -16,6 +16,8 @@ https://www.openpolicyagent.org/docs/rest-api
 Data API - evaluate rules and retrieve data.
 https://www.openpolicyagent.org/docs/rest-api#data-api
 
+How OPA works - https://www.openpolicyagent.org/docs/philosophy#how-does-opa-work
+
 https://www.openpolicyagent.org/docs/latest/management-bundles/
 
  //  sidecar container port  can communicate directly
