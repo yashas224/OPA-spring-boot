@@ -12,6 +12,7 @@ https://www.openpolicyagent.org/docs/latest/#running-opa
 https://www.openpolicyagent.org/docs/latest/integration/
 // query rules
 https://www.openpolicyagent.org/docs/v0.51.0/rest-api/#get-a-document
+https://www.openpolicyagent.org/docs/rest-api
 https://www.openpolicyagent.org/docs/latest/management-bundles/
 
  //  sidecar container port  can communicate directly
